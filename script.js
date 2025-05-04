@@ -65,3 +65,7 @@ function createTodo(todo , todoIndex) {
     return todoItem;
 
 }
+
+function greeting() {
+    console.log("Hello, World!");
+}
