@@ -68,4 +68,5 @@ function createTodo(todo , todoIndex) {
 
 function greeting() {
     console.log("Hello, World!");
+    console.log("Hello, Everyone!");
 }
